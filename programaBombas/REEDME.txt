@@ -1,0 +1,14 @@
+Simulación del programa en TinkerCAD
+
+Ir al link:
+https://www.tinkercad.com/things/f8YIBJls8RJ-programa-bombas-motyvar#/
+
+Apretar el bonton de "Iniciar Simulación".
+
+El primer boton es el boton-switch de Automático a Manual.
+
+Los siguentes cuatro botones son los que prenden y apagan las bombas.
+
+El último boton simula el flotante. Al termino de apretarlo o manterlo apretado,
+la bomba tiene que cambiar automáticamente (si estaba prendida la B1 prende la B2 y viceversa).
+
